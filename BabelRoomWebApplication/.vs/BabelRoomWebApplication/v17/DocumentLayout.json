@@ -7,8 +7,28 @@
       "RelativeMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|solutionrelative:babelroomwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|c:\\users\\guihu\\onedrive\\\u00E1rea de trabalho\\babel\\babelroom\\babelroomwebapplication\\babelroomwebapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|solutionrelative:babelroomwebapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|c:\\users\\guihu\\onedrive\\\u00E1rea de trabalho\\babel\\babelroom\\babelroomwebapplication\\babelroomwebapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|solutionrelative:babelroomwebapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|c:\\users\\guihu\\onedrive\\\u00E1rea de trabalho\\babel\\babelroom\\babelroomwebapplication\\babelroomwebapplication\\migrations\\20250304210227_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|solutionrelative:babelroomwebapplication\\migrations\\20250304210227_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|c:\\users\\guihu\\onedrive\\\u00E1rea de trabalho\\babel\\babelroom\\babelroomwebapplication\\babelroomwebapplication\\models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|solutionrelative:babelroomwebapplication\\models\\sampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|c:\\users\\guihu\\onedrive\\\u00E1rea de trabalho\\babel\\babelroom\\babelroomwebapplication\\babelroomwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|solutionrelative:babelroomwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|c:\\users\\guihu\\onedrive\\\u00E1rea de trabalho\\babel\\babelroom\\babelroomwebapplication\\babelroomwebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE221F63-58AE-4053-B095-B2F21359F655}|BabelRoomWebApplication\\BabelRoomWebApplication.csproj|solutionrelative:babelroomwebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "BabelRoomWebApplication\\WeatherForecast.cs",
@@ -34,7 +54,59 @@
               "RelativeToolTip": "BabelRoomWebApplication\\WeatherForecast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T21:38:37.593Z",
+              "WhenOpened": "2025-03-04T21:03:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250304210227_Login.cs",
+              "DocumentMoniker": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Migrations\\20250304210227_Login.cs",
+              "RelativeDocumentMoniker": "BabelRoomWebApplication\\Migrations\\20250304210227_Login.cs",
+              "ToolTip": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Migrations\\20250304210227_Login.cs",
+              "RelativeToolTip": "BabelRoomWebApplication\\Migrations\\20250304210227_Login.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:02:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Models\\SampleDBContext.cs",
+              "RelativeDocumentMoniker": "BabelRoomWebApplication\\Models\\SampleDBContext.cs",
+              "ToolTip": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Models\\SampleDBContext.cs",
+              "RelativeToolTip": "BabelRoomWebApplication\\Models\\SampleDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:34:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "BabelRoomWebApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\appsettings.json",
+              "RelativeToolTip": "BabelRoomWebApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-04T20:45:00.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BabelRoomWebApplication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Models\\User.cs",
+              "RelativeToolTip": "BabelRoomWebApplication\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:33:39.344Z",
               "EditorCaption": ""
             },
             {
@@ -45,9 +117,22 @@
               "RelativeDocumentMoniker": "BabelRoomWebApplication\\Program.cs",
               "ToolTip": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Program.cs",
               "RelativeToolTip": "BabelRoomWebApplication\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T21:38:36.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BabelRoomWebApplication\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\guihu\\OneDrive\\\u00C1rea de Trabalho\\Babel\\BabelRoom\\BabelRoomWebApplication\\BabelRoomWebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BabelRoomWebApplication\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T21:03:58.794Z",
               "EditorCaption": ""
             }
           ]

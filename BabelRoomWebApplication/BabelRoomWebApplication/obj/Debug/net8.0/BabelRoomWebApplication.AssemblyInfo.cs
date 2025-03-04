@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BabelRoomWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f065256c1d68edc1e5e2d68b91270dfc548133")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a758bec133c3c6b2364f0aec399a45c62ad5ab0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BabelRoomWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BabelRoomWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
